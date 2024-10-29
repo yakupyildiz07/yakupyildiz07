@@ -30,9 +30,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> </a> 
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="mui" width="40" height="40"/> </a> 
   <a href="https://axios-http.com" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/axios-3088dorqgd2c1cu3h9xbue.png/axios-u9wj9f9fx8qch67xta7b0s.png?_a=DAJFJtWIZAAC" alt="axios" width="40" height="40"/> </a> 
-
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> </a> 
+   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="nextjs" width="40" height="40"/> </a> 
+   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/> </a> 
 
  </p>
 
