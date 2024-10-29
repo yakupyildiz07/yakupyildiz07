@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **NextJS,Tailwind Css**
 
-- 💬 Ask me about **Html,Css,Bootstrap**
+- 💬 Ask me about **Html,Css,Bootstrap,React,MUI**
 
 - 📫 How to reach me **yakup4235@gmail.com**
 
