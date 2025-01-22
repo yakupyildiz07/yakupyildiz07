@@ -34,7 +34,9 @@
   <a href="https://axios-http.com" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/axios-3088dorqgd2c1cu3h9xbue.png/axios-u9wj9f9fx8qch67xta7b0s.png?_a=DAJFJtWIZAAC" alt="axios" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> </a> 
    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="nextjs" width="40" height="40"/> </a> 
-   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/> </a> 
+   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="figma" width="40" height="40"/> </a> 
 
  </p>
 
