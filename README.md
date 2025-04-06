@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **NextJS,Tailwind Css**
+- 🌱 I’m currently learning **NextJS,Vite**
 
-- 💬 Ask me about **Html,Css,Bootstrap,React,MUI**
+- 💬 Ask me about **Html, Css, Bootstrap, React, MUI, Tailwind CSS**
 
 - 📫 How to reach me **yakup4235@gmail.com**
 
